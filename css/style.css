@@ -225,7 +225,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../images/Wallpaper.jpeg) top center;
+  background: url(../images/wallpaper.jpeg) top center;
   background-size: cover;
   position: relative;
 }
@@ -941,9 +941,8 @@ input[type=submit] {
   padding: 10px;
   font-size: 30px;
   width: 50px;
-  height: 50px;
-  text-decoration: none;
   text-align: center;
+  text-decoration: none;
 }
 
 /* Add a hover effect if you want */
@@ -953,7 +952,7 @@ input[type=submit] {
 
 /* Set a specific color for each brand */
 
-/* instagram */
+/* Facebook */
 .fa-instagram {
   background: #3B5998;
   color: white;

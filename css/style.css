@@ -181,7 +181,7 @@ h6 {
   position: fixed;
   left: 5%;
   line-height: 1;
-  font-family: "Poppins", sans-serif;
+  font-family: "Arial", sans-serif;
   font-weight: 400;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -283,7 +283,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Poppins", sans-serif;
+  font-family: "Arial", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;

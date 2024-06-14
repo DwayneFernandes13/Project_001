@@ -1,3 +1,24 @@
+const lowercaseChars = "abcdefghijklmnopqrstuvwxyz";
+const uppercaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const numberChars = "0123456789";
+const symbolChars = "!-$^+";
+const spaceChar = " ";
+
+function getRandomChar(chars){
+    const index = Math.floor(Math.random() * chars.length);
+    return chars[index];
+}
+
+function generatePassword(){
+    const passwordInput = document.getElementById("password");
+    const lowercaseChars = document.getElementById("lowercase");
+    const uppercaseChars = document.getElementById("uppercase");
+    const numberChars = document.getElementById("numbers");
+    const symbolChars = document.getElementById("symbols");
+    const excludeDuplicateCheckbox = document.getElementById("exc-duplicate");
+    const spacesCheckbox = document.getElementById("spaces");
+}
+
 let characters = "";
 if (lowercaseCheckbox.checked) characters += lowercaseChars;
 if (uppercaseCheckbox.checked) characters += uppercaseChars;

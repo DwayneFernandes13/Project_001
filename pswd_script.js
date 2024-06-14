@@ -26,7 +26,7 @@ if (numbersCheckbox.checked) characters += numberChars;
 if (symbolsCheckbox.checked) characters += symbolChars;
 if (spacesCheckbox.checked) characters += spaceChar;
 
-if (characters === ""){
+if (characters === "") {
     passwordInput.value = "";
     return;
 }
@@ -34,7 +34,7 @@ if (characters === ""){
 let password = "";
 const length = 12;
 
-while (password.length <length){
+while (password.length < length){
     let char = getRandomChar(characters);
     if (excludeDuplicateCheckbox.checked && password.includes(char)) continue;
     password += char;

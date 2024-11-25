@@ -363,11 +363,11 @@ h6 {
   float: right;
   position: absolute;
   margin: 0;
-  left: 80%;
+  left: 70%;
 }
 
 .nav-menu a {
-  padding: 0 8px 10px 8px;
+  padding: 0 5px 10px 8px;
   text-decoration: none;
   display: inline-block;
   color: #fff;

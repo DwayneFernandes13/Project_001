@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#00A979;}
+	.st2{fill:url(#SVGID_1_);}
+</style>
+<pattern  width="185.75" height="178.91" patternUnits="userSpaceOnUse" id="New_Pattern_8" viewBox="0 -178.91 185.75 178.91" style="overflow:visible;">
+	<g>
+		<rect x="0" y="-178.91" class="st0" width="185.75" height="178.91"/>
+		<g>
+			
+				<rect x="76.27" y="-130.56" transform="matrix(0.7212 -0.6927 0.6927 0.7212 90.3281 30.9405)" class="st1" width="14.67" height="67.64"/>
+			<path class="st1" d="M57.11-93.2l29.52-30.73c2.07-2.16,2.17-5.54,0.23-7.81l-40.51-47.18l-10.11,10.53l31.24,35.51
+				c2,2.28,1.92,5.71-0.18,7.9l-12.16,12.66c-2.08,2.16-5.46,2.4-7.82,0.55L9.99-141.1L0-130.67l49.38,38.06
+				C51.73-90.81,55.06-91.06,57.11-93.2"/>
+		</g>
+		<g>
+			
+				<rect x="100.95" y="-26.36" transform="matrix(0.7212 -0.6927 0.6927 0.7212 49.5859 81.2087)" class="st1" width="49.45" height="10.73"/>
+			<path class="st1" d="M123.08-40.36l22.47,21.58c1.58,1.52,4.05,1.59,5.71,0.16l34.49-29.62l-7.7-7.39l-25.96,22.84
+				c-1.67,1.46-4.18,1.41-5.78-0.13l-9.25-8.89c-1.58-1.52-1.76-3.99-0.4-5.72l21.45-27.29l-7.63-7.3l-27.82,36.1
+				C121.34-44.3,121.52-41.86,123.08-40.36"/>
+		</g>
+	</g>
+</pattern>
+<pattern  id="SVGID_1_" xlink:href="#New_Pattern_8" patternTransform="matrix(0.2535 0 0 0.2535 -5339.8145 -4869.5166)">
+</pattern>
+<rect class="st2" width="1920" height="1080"/>
+</svg>
